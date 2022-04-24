@@ -17,7 +17,7 @@ meanings as shown in [Fig 1](https://github.com/NadiaSaeed/MedTCS/blob/9406ab861
 ## MedTCS Framework
 MedTCS module to encode OOV words from a set of sentences or words have following steps:   
 - OOV Word Detector   
-- Pluraluzer/Singularizer     
+- Pluralizer/Singularizer     
 - Term Parser    
 - Term Segmenter      
      
