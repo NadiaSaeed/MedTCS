@@ -1,0 +1,442 @@
+ante	forward
+anti	opposing against
+con	with
+com	together with
+extra	beyond 
+extro	outward
+hemi	half
+semi	half of
+hyper	excessive
+hyp	below
+hypo	deficient
+intro	within
+macro	large
+micro	tiny
+micr	small
+post	following
+pre	before 
+pro	preceding
+retro	behind
+bio	life
+trans	through
+dys	painful
+hydro	water
+intra	within
+null	none
+per	around
+prim	first
+secund	second
+para	beyond around beside
+polio	gray
+quadr	four
+sub	below under
+tri	three
+ultra	excessive beyond
+anterior	front
+posterior	back
+necro	death
+brady	slow
+exo	outside outward
+pan	all
+tachy	fast
+cephalo	head (upward)
+caudo	tail (downward)
+endo	within inside
+proximal	near (think proximity)
+distal	away from (think distance)
+superior	above
+inferior	below
+mbi	both
+ambo	both
+amph	double both sides
+ana	up apart
+apo	separated or derived from
+aut	self
+abdomin	abdomen
+aden	gland
+adren	adrenal gland
+alveol	air sac
+angi	vessel
+arter	artery
+arteriol	arteriole
+athr	joint
+atri	atrium
+audi	hearing
+balan	glans penis
+bronch	bronchus
+bronchiol	bronchiole
+carcin	cancer
+card	heart
+cellul	cell
+cerebell	cerebellum
+cerebr	cerebrum
+chol	bile
+cholecyst	gallbladder
+choledoch	common bile duct
+chondr	cartilage
+chrom	color
+col	colon
+colp	vagina
+cost	rib
+cry	cold
+crypt	hidden
+cutane	skin
+cyan	blue
+cyst	bladder or cyst
+cyst	bladder or cyst
+cyt	cell
+dipl	double twice
+duoden	duodenum
+encephal	brain
+enter	intestine
+epis	vulva
+erythr	red
+esophag	esophagus
+fibr	fibers
+galact	milk
+gastr	stomach
+glyc	sugar
+gynec	female
+hemat	blood
+hepat	liver
+hepatic	liver
+heter	other different
+duct	to draw
+fasc	fascia (band of tissue surrounding muscle)
+flex	bend
+leiomy	smooth visceral muscle
+myocard	heart muscle
+myos	muscle
+pronat	facing down or backward
+rhabdomy	skeletal or striated muscle
+sarc	soft fleshy or connective tissue
+supinat	facing up or forward
+tens	stretch
+card	heart
+hidr	sweat
+hist	tissue
+hist	tissue
+hom	same
+home	same alike
+hydr	water wet
+hyster	uterus
+iatr	treatment
+ile	ileum (intestine)
+acetabul	acetabulum hip joint
+calcane	cancaneus heel
+carp	carpals wrist bones
+clavic	collar bone
+clavicul	collar bone
+clavicle	collar bone
+cran	cranium skull
+femor	femur upper leg bone
+fibul	fibula lower leg bone
+humer	humerus upper arm bone
+ili	ilium pelvic bone
+isch	ischium pelvic bone
+lumb	spine lumbar region
+malleol	malleolus ankle
+mandibul	mandible lower jaw
+maxill	maxilla upper jaw
+intestin	intestine
+jejun	jejunum
+kerat	cornea of eye horny tissue
+lacrima	tears
+laryng	larynx
+leuk	white
+lipid	fat
+lith	stone (in gallbladder or kidney)
+lymph	lymph vessels
+melan	black
+men	menses menstruation
+mening	meninges
+metr	uterus
+myel	bone marrow or spinal cord
+myring	eardrum
+nat	birth
+necr	death
+nephr	kidney
+neur	nerve
+oophor	ovary
+orchid	testis
+orchi	testis
+oss	bone
+ost	bone
+palat	roof of mouth
+path	disease
+peritone	peritoneum
+pharmac	drug
+pharyng	pharynx
+phleb	vein
+phren	diaphragm
+pleur	pleura rib (side)
+pneum	lungs
+poli	gray matter of nervous system
+proct	rectum anus
+pulmon	lungs
+pyel	pelvis of kidney
+rect	rectum
+ren	kidney
+sacr	sacrum
+salping	fallopian tube
+scapul	scapula
+sept	infection
+splen	spleen
+spondyl	vertebra
+stern	sternum
+tend	tendon
+ten	tendon
+testicul	testis
+therm	heat
+thorac	chest
+thym	thymus
+thyr	thyroid gland
+thyroid	thyroid gland
+tonsill	tonsils
+trache	trachea
+tympan	eardrum
+urin	urine
+ureter	ureter
+urethr	urethra
+vas	vas deferens
+ven	vein
+vesic	bladder
+viscer	viscera (internal organs)
+xanth	red redness
+xer	dry
+blephar	eyelid or eyelash
+cephal	head
+cervic	neck or cervix
+cheil	lip
+chil	lip
+derm	skin
+dermat	skin
+dors	back or posterior
+gingiv	gums in mouth
+inguin	groin
+irid	iris of eye
+lapar	abdomen loin flank
+lingu	tongue
+mamm	breast
+mast	breast
+odont	teeth
+onych	nails
+ophthalm	eyes
+ocul	eyes
+optic	seeing
+opt	seeing sight
+pelv	pelvis
+pod	foot
+rhin	nose
+stomat	mouth
+cheir	hand
+chir	hand
+ephr	kidney
+epithel	epithelium
+lip	fat
+myo	muscle
+organ	organ
+anter	front
+caud	tail or downward
+dist	away from (distant) the point of origin
+infer	below
+later	side
+medi	middle
+poster	back or behind
+proxim	near to (proximity) the point of origin
+super	above
+ventr	front or belly
+kyph	humpback (posterior curvature of thoracic spine)
+lamin	lamina (part of the vertebral arch)
+lord	curve or swayback
+oste	bone
+orth	straight
+scol	crooked bent
+vertebr	vertebra (referring to describing the structure)
+metacarp	metacarpals bones of hand
+metatars	metatarsals bones of foot
+olecran	olecranon elbow
+patell	patella knee cap
+phalang	phalanges bones of fingers and toes
+pub	pubis portion of pelvic bone
+radi	radius lower arm bone
+tars	tarsals ankle bones
+tibi	tibia lower leg bone
+uln	ulna lower arm bone
+arthr	joint
+articul	joint
+burs	bursa
+disk	intervertebral disk
+fibros	fibrous
+menisc	meniscus
+synov	synovium
+tendin	tendon
+adip	fat
+albin	white
+diaphor	profuse sweating
+erythem	red
+myc	fungus
+papill	nipple-like
+pil	hair
+rhytid	wrinkle
+sclera	hardening
+seb	sebum
+squam	scale
+steat	fat sebum
+trich	hair
+aque	water
+conjunctiv	conjunctiva (membrane lining eyelids)
+core	pupil
+cor	pupil
+corne	cornea
+dacry	tear tear duct
+emmetr	in due measure
+glauc	gray
+lacrim	tear tear duct
+mydr	wide
+phac	crystalline lens
+phak	crystalline lens
+phot	light
+presby	old age
+pupill	pupil
+retin	retina
+scler	sclera (white of the eye)
+uve	iris ciliary body and choroids
+vitre	glassy
+acous	hearing
+acou	hearing
+aur	ear
+bar	pressure weight
+cerumin	cerumen (ear wax)
+mastoid	mastoid process (process of temporal bone behind the ear)
+staped	stapes (third ossicle of middle ear)
+bas	base (opposite of acid)
+eosin	red rosy
+granul	granules
+hem	blood
+immun	safe protection
+kary	nucleus
+lymphaden	lymph gland
+lymphang	lymph vessels
+neutr	neither neutral
+mon	one single
+morph	shape form
+nucle	nucleus
+spher	globe or round
+sider	iron
+thromb	clot
+adenoid	adenoids
+alveol	alveolus air sac
+atel	imperfect incomplete
+bronch	bronchial tubes
+epiglott	epiglottis
+nas	nose
+spir	to breathe
+appendic	appendix
+bucc	cheek (facial)
+cec	cecum
+celi	belly
+cheiol	saliva
+bil	gall bile
+dent	teeth
+gluc	sugar
+labi	lips
+gloss	tongue
+pancreat	pancreas
+pylor	pylorus
+sigmoid	sigmoid colon
+submaxill	lower jaw
+uvul	uvula
+acr	extremities height
+calc	calcium
+albumin	albumin
+bacter	bacteria
+cortic	cortex (the renal cortex is the outer section of the kidney)
+dips	thirst
+glomerul	glomerulus (cluster of small vessels)
+andr	male
+amni	amniocentesis
+chor	relationship to a membrane
+cyes	pregnancy
+embry	embryo
+fet	fetus
+fimbr	fimbria
+gravida	pregnancy
+lact	milk
+mult	many
+null	none
+vagin	vagina
+vulv	vulva
+umbilic	umbilicus navel
+uter	uterus
+omphal	umbilicus navel
+perine	perineum
+prim	first
+pseud	false
+puerper	childbirth
+epididym	epididymis
+orch	testis testicle
+prostat	prostate gland
+sperm	spermatozoon
+spermat	spermatozoa
+test	testis testicle
+vesicul	seminal vesicles
+crin	to secrete
+meat	meatus
+medull	medulla inner section of the kidney
+noct	night
+olig	scanty
+trigon	trigone
+alges	excessive sensitivity to pain
+dur	dura mater
+ech	sound
+esthes	feeling nervous sensation
+gli	glue
+kines	movement
+mening	meninges
+phas	speech
+psych	mind
+thalam	thalamus
+ventricul	ventricle
+gonad	sex glands
+kal	potassium
+natr	sodium
+parathyroid	parathyroid gland
+somat	body
+toxic	poison
+bin	two
+epi	on over upon
+hyper 	excessive above normal
+inter	between
+per	through
+poly	many much
+retro 	backward back
+brach	arm
+canth	angle of the eyelids
+capit	head
+cili	eyelash or eyelid or small hair-like processes
+faci	face
+gnath	jaws
+occipit	back of the head
+phall	penis
+steth	chest
+tal	ankle
+trachel	neck or necklike
+ventr	front of body
+dia	through apart across between
+dis	apart from or free from
+ect	outside
+ecto	outside outer on
+end	within
+ent	within
+ento	within or inner
+infra	below or beneath
+mal	bad
+mes	middle
+meso	middle
+meta	beyond or changing
+uni	one
+neo	new or recent
+supra	above excessive superior
+sym	with 
+syn	with or together
