@@ -6,7 +6,7 @@ MedTCS is a natural language processing system helps the distributed representat
 
 The below image shows how the biomedical/clinical terms components deliver a maningful information.
 
-![](images/Figure1.png)
+![](Figure1.png)
 
 ## Meta-data Collection
 In MedTCS, we have build meta-dictionaries for the prefixes, roots, and suffixes defining the meanings of medical term components. The three semantic97
