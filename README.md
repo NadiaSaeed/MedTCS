@@ -9,9 +9,9 @@ The below image shows how the biomedical/clinical terms components deliver a man
 ![](Figure1.png)
 
 ## Meta-data Collection
-In MedTCS, we have build meta-dictionaries for the prefixes, roots, and suffixes defining the meanings of medical term components. The three semantic97
+In MedTCS, we have build meta-dictionaries for the prefixes, roots, and suffixes defining the meanings of medical term components. The three semantic
 dictionaries contain 467 [root words](https://github.com/NadiaSaeed/MedTCS/blob/9406ab861c60de0d1026d88261409051b3ee4106/MedTCS-root.csv), 432 [prefixes](https://github.com/NadiaSaeed/MedTCS/blob/9406ab861c60de0d1026d88261409051b3ee4106/MedTCS-prefix.csv), and 112 [suffixes](https://github.com/NadiaSaeed/MedTCS/blob/9406ab861c60de0d1026d88261409051b3ee4106/MedTCS-suffix.csv), along with their corresponding
-meanings as shown in [Fig 1](https://github.com/NadiaSaeed/MedTCS/blob/9406ab861c60de0d1026d88261409051b3ee4106/Figure1.png). The collected metaThe [Default Clinical Pipeline](https://cwiki.apache.org/confluence/display/CTAKES/Default+Clinical+Pipeline)
+meanings as shown in [Fig 1](https://github.com/NadiaSaeed/MedTCS/blob/9406ab861c60de0d1026d88261409051b3ee4106/Figure1.png).
 
 
 ## MedTCS Framework
