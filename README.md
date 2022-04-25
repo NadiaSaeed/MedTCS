@@ -1,6 +1,6 @@
 # MedTCS
 
-This project aims to provide an Medical Terminology based Computing System (MedTCS): a
+This project aims to provide an **Med**ical **T**erminology based **C**omputing **S**ystem (MedTCS): a
 lightweight post-processing solution for out-of-vocabulary(OOV) multi-word terms. 
 MedTCS is a natural language processing system helps the distributed representation models (like: Word2Vec, GloVe) to handle the OOV problem effectively. 
 
