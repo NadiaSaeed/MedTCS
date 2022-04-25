@@ -30,7 +30,7 @@ The pre-trained [term segmenter model](https://github.com/NadiaSaeed/MedTCS/blob
 | ------------- |:-------------:|
 |Original Input    | flavoxate hydrochloride tablets are indicated for symptomatic relief of dysuria urgency **<ins>nocturia</ins>** **<ins>suprapubic</ins>** pain frequency and incontinence as may occur in cystitis prostatitis urethritis **<ins>urethrocystitis</ins>** **<ins>urethrotrigonitis</ins>** |
 |OOV Term    | flavoxate hydrochloride tablets are indicated for symptomatic relief of dysuria urgency **<ins>OOV</ins>** **<ins>OOV</ins>** pain frequency and incontinence as may occur in cystitis prostatitis urethritis **<ins>OOV</ins>** **<ins>OOV</ins>** |
-|MedTCS’s input to Encoder    | flavoxate hydrochloride tablets are indicated for symptomatic relief of dysuria urgency **<ins>night urination urine above excessive</ins>** **<ins>superior pubis portion of pelvic bone ic</ins>** pain frequency and incontinence as may occur in cystitis prostatitis urethritis **<ins>urethra bladder or cyst inflammation</ins>** **<ins>urethra trigone inflammation</ins>** |
+|MedTCS’s Input to Encoder    | flavoxate hydrochloride tablets are indicated for symptomatic relief of dysuria urgency **<ins>night urination urine above excessive</ins>** **<ins>superior pubis portion of pelvic bone ic</ins>** pain frequency and incontinence as may occur in cystitis prostatitis urethritis **<ins>urethra bladder or cyst inflammation</ins>** **<ins>urethra trigone inflammation</ins>** |
 
 Above sentence took from [RxList](https://www.rxlist.com/flavoxate-side-effects-drug-center.htm) and OOV terms observed in [GloVe-Twitter-200d](https://nlp.stanford.edu/projects/glove/) that estimate with MedTCS.
 
