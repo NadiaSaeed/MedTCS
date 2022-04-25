@@ -24,5 +24,10 @@ MedTCS module to encode OOV words from a set of sentences or words have followin
 
 ## MedTCS:Term Segmenter model
 The pre-trained [term segmenter model](https://github.com/NadiaSaeed/MedTCS/blob/9406ab861c60de0d1026d88261409051b3ee4106/Morphmodel.bin) returned meaningful sub-words of an unknown term (like seasickness → sea+sick+ness).
-
+## Example
+| ------------- |:-------------:|
+|Input    | flavoxate hydrochloride tablets are indicated for symptomatic relief of dysuria urgency nocturia suprapubic pain frequency and incontinence as may occur in cystitis prostatitis urethritis urethrocystitis urethrotrigonitis |
+|Input to Encoder    | flavoxate hydrochloride tablets are indicated for symptomatic relief of dysuria urgency ZERO-vector ZERO-vector pain frequency and incontinence as may occur in cystitis prostatitis urethritis ZERO-vector ZERO-vector |
+|MedTCS’s input to Encoder    | flavoxate hydrochloride tablets are indicated for symptomatic relief of dysuria urgency night urination urine above excessive superior pubis portion of pelvic bone ic pain frequency and incontinence as may occur in cystitis prostatitis urethritis urethra bladder or cyst inflammation urethra trigone inflammation |
+MedTCS assist to encode OOV medical terms.
 [MedTCS module](https://github.com/NadiaSaeed/MedTCS/blob/9406ab861c60de0d1026d88261409051b3ee4106/MedTCS.ipynb) enabled the word embedding models to encode the vector for OOV terms from its search-space effectively.
