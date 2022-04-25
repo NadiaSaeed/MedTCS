@@ -1,7 +1,7 @@
 # MedTCS
 
 This project aims to provide an Medical Terminology based Computing System (MedTCS): a
-lightweight post-processing solution for out-of-vocabulary multi-word terms. 
+lightweight post-processing solution for out-of-vocabulary(OOV) multi-word terms. 
 MedTCS is a natural language processing system helps the distributed representation models (like: Word2Vec, GloVe) to handle the OOV problem effectively. 
 
 The below image shows how the biomedical/clinical terms components deliver a maningful information.
@@ -28,9 +28,10 @@ The pre-trained [term segmenter model](https://github.com/NadiaSaeed/MedTCS/blob
 ## Example
 | Mode       |Sentences        |
 | ------------- |:-------------:|
-|Input    | flavoxate hydrochloride tablets are indicated for symptomatic relief of dysuria urgency **<ins>nocturia</ins>** **<ins>suprapubic</ins>** pain frequency and incontinence as may occur in cystitis prostatitis urethritis **<ins>urethrocystitis</ins>** **<ins>urethrotrigonitis</ins>** |
-|Input to Encoder    | flavoxate hydrochloride tablets are indicated for symptomatic relief of dysuria urgency **<ins>ZERO-vector</ins>** **<ins>ZERO-vector</ins>** pain frequency and incontinence as may occur in cystitis prostatitis urethritis **<ins>ZERO-vector</ins>** **<ins>ZERO-vector</ins>** |
+|Original Input    | flavoxate hydrochloride tablets are indicated for symptomatic relief of dysuria urgency **<ins>nocturia</ins>** **<ins>suprapubic</ins>** pain frequency and incontinence as may occur in cystitis prostatitis urethritis **<ins>urethrocystitis</ins>** **<ins>urethrotrigonitis</ins>** |
+|OOV Term    | flavoxate hydrochloride tablets are indicated for symptomatic relief of dysuria urgency **<ins>OOV</ins>** **<ins>OOV</ins>** pain frequency and incontinence as may occur in cystitis prostatitis urethritis **<ins>OOV</ins>** **<ins>OOV</ins>** |
 |MedTCS’s input to Encoder    | flavoxate hydrochloride tablets are indicated for symptomatic relief of dysuria urgency **<ins>night urination urine above excessive</ins>** **<ins>superior pubis portion of pelvic bone ic</ins>** pain frequency and incontinence as may occur in cystitis prostatitis urethritis **<ins>urethra bladder or cyst inflammation</ins>** **<ins>urethra trigone inflammation</ins>** |
 
+Above sentence takes from [RxList](https://www.rxlist.com/flavoxate-side-effects-drug-center.htm) and OOV terms are observed in [GloVe-Twitter-200d](https://nlp.stanford.edu/projects/glove/) that approximat with MedTCS.
 
 [MedTCS module](https://github.com/NadiaSaeed/MedTCS/blob/9406ab861c60de0d1026d88261409051b3ee4106/MedTCS.ipynb) enabled the word embedding models to encode the vector for OOV terms from its search-space effectively.
