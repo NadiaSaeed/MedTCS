@@ -1,4 +1,4 @@
-# MedTCS: Medical terminology-based computing system: a lightweight post-processing solution for out-of-vocabulary multi-word terms
+# MedTCS: Medical terminology-based computing system: a lightweight post-processing solution for out-of-vocabulary multi-word terms [[1]](#1)
 
 This project aims to provide an **Med**ical **T**erminology based **C**omputing **S**ystem (MedTCS): a
 lightweight post-processing solution for out-of-vocabulary(OOV) multi-word terms. 
@@ -37,6 +37,6 @@ Above sentence took from [RxList](https://www.rxlist.com/flavoxate-side-effects-
 
 
 [MedTCS module](https://github.com/NadiaSaeed/MedTCS/blob/9406ab861c60de0d1026d88261409051b3ee4106/MedTCS.ipynb) enabled the word embedding models to encode the vector for OOV terms from its search-space effectively.
-##References
+## References
 <a id="1">[1]</a> 
 Saeed, Nadia, and Hammad Naveed. "Medical terminology-based computing system: a lightweight post-processing solution for out-of-vocabulary multi-word terms." Frontiers in Molecular Biosciences 9 (2022): 928530.
